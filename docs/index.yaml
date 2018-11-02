@@ -1,0 +1,40 @@
+apiVersion: v1
+entries:
+  microservice-schedule:
+  - apiVersion: v1
+    created: 2018-11-02T16:27:32.004500645+09:00
+    description: A Helm chart for Kubernetes
+    digest: 3a838f2d6118a70d7ad5103a0d26c164e89ea844bff5bce4c88e138bafd247b7
+    name: microservice-schedule
+    urls:
+    - https://terryunghb.github.io/mycharts/microservice-schedule-1.0.0.tgz
+    version: 1.0.0
+  microservice-session:
+  - apiVersion: v1
+    created: 2018-11-02T16:27:32.004993923+09:00
+    description: A Helm chart for Kubernetes
+    digest: c0f98ef194cf01ab9b93f4ec38522b0c2e1ae6e6d5ba03fa16bb74b82e9b27b1
+    name: microservice-session
+    urls:
+    - https://terryunghb.github.io/mycharts/microservice-session-1.0.0.tgz
+    version: 1.0.0
+  microservice-speaker:
+  - apiVersion: v1
+    created: 2018-11-02T16:27:32.005455985+09:00
+    description: A Helm chart for Kubernetes
+    digest: 02e82aa1f98a5a8123c4ef048694067cfa1906b567ac63e7ed2fec1e6f894d40
+    name: microservice-speaker
+    urls:
+    - https://terryunghb.github.io/mycharts/microservice-speaker-1.0.0.tgz
+    version: 1.0.0
+  web-application:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-11-02T16:27:32.006601127+09:00
+    description: A Helm chart for Kubernetes
+    digest: 82eebe63d981b2340f5d9828eaf8b920417fc594fa0d10a816d47e415d23cd48
+    name: web-application
+    urls:
+    - https://terryunghb.github.io/mycharts/web-application-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-11-02T16:27:32.003549533+09:00
